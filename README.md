@@ -4,7 +4,7 @@
 
 ⚡ Fun fact:
 - I use tabs over spaces.
-- Name on Mars.
+- Sent my name to Mars.
   
   
 <br/>  
