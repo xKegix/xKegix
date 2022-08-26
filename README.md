@@ -5,7 +5,11 @@
 ⚡ Fun fact:
 - I use tabs over spaces.
 - Sent my name to Mars.
-  
+
+⚡Currently learning Web 3.0:
+- Defi
+- Deployment to ICP Live Blockchain.
+- DApps on ICP with React.
   
 <br/>  
 
