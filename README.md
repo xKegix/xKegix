@@ -10,6 +10,7 @@
 - Defi
 - Deployment to ICP Live Blockchain.
 - DApps on ICP with React.
+- DApps on Android and IOS.
   
 <br/>  
 
